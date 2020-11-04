@@ -1,0 +1,7 @@
+name 'openvpn'
+maintainer 'Tim Wright'
+maintainer_email 'tim@eastbound.io'
+license 'all_rights'
+description 'Installs/Configures openvpn'
+long_description 'Installs/Configures openvpn'
+version '0.1.0'
